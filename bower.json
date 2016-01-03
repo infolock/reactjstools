@@ -1,0 +1,28 @@
+{
+    "name": "ReactJSTools",
+    "authors": [
+        "Jonathon Hibbard"
+    ],
+    "description": "react.tools website",
+	"version": "1.0.0",
+	"description": "",
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	],
+	"dependencies": {
+		"bootstrap": "^3.3.4"
+	},
+	"devDependencies": {
+		"blanket": "~1.1.5",
+		"qunit": "~1.17.1"
+	},
+	"resolutions": {
+		"bootstrap": "^3.3.4",
+		"moment": "^2.10.6",
+		"jquery": "2.1.4",
+		"underscore": "~1.8.2"
+	}
+}
